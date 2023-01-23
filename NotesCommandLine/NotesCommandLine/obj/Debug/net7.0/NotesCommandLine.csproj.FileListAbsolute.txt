@@ -1,0 +1,15 @@
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/bin/Debug/net7.0/NotesCommandLine
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/bin/Debug/net7.0/NotesCommandLine.deps.json
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/bin/Debug/net7.0/NotesCommandLine.runtimeconfig.json
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/bin/Debug/net7.0/NotesCommandLine.dll
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/bin/Debug/net7.0/NotesCommandLine.pdb
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.csproj.AssemblyReference.cache
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.AssemblyInfoInputs.cache
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.AssemblyInfo.cs
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.csproj.CoreCompileInputs.cache
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.dll
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/refint/NotesCommandLine.dll
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.pdb
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/NotesCommandLine.genruntimeconfig.cache
+/Users/christopher.ashton/Desktop/Projects Folder/csharp/NotesCommandLine/NotesCommandLine/obj/Debug/net7.0/ref/NotesCommandLine.dll
